@@ -4,8 +4,6 @@ import java.util.regex.*;
 /**
  * This class defines the functionality of the application handling character strings in different ways.
  * @author Marcos Esteban Vargas Avella.
- *
- * @param <T>
  */
 public class Features {
 	
